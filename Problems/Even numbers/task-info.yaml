@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def even(x):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10378
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10378">JetBrains
+    Academy</a></html>
+  time: Wed, 02 Sep 2020 16:20:24 UTC
+record: -1

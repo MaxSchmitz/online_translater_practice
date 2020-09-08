@@ -1,0 +1,33 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def contains2d(text, pattern):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7576
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 10. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    4 4
+    0010
+    1100
+    0011
+    1111
+    2 2
+    11
+    11
+
+    Correct output:
+    True
+
+    Your code output:
+    False
+  time: Thu, 03 Sep 2020 19:17:18 UTC
+record: -1

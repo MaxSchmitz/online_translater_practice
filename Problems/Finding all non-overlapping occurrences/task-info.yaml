@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def find_no_overlaps(text, pattern):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7575
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7575">JetBrains
+    Academy</a></html>
+  time: Thu, 03 Sep 2020 20:41:46 UTC
+record: -1

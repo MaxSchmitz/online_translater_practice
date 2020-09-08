@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def contains_upto_permutations(text, pattern):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7577
+status: Failed
+feedback:
+  message: |
+    Failed test #8 of 9. Time limit exceeded
+  time: Thu, 03 Sep 2020 19:56:41 UTC
+record: -1

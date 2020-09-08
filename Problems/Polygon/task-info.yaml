@@ -1,0 +1,26 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    from abc import ABC, abstractmethod
+
+
+    class EquilateralPolygon(ABC):
+        def __init__(self, side):
+            self.side = side
+
+        @abstractmethod
+        def get_area(self):
+            ...
+
+
+    # create Square
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10116
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10116">JetBrains
+    Academy</a></html>
+  time: Thu, 03 Sep 2020 14:57:14 UTC
+record: -1
